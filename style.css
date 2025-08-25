@@ -107,16 +107,6 @@ select {
   width: 100%;
 }
 
-.meta {
-  padding: 48px 88px 54px;
-  background-color: #ffffff;
-  border-radius: 24px;
-  border: 1px solid #66666680;
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 16px;
-}
-
 .title h1 {
   font-weight: 600;
   font-size: 48px;
